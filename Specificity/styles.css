@@ -1,0 +1,16 @@
+
+/* one point */
+p {
+    color: red;
+}
+
+/* one hundred and one points */
+#winner p {
+    color: green;
+}
+
+/* one point */
+/* but explicit */
+/* strong {
+    color: purple;
+} */
