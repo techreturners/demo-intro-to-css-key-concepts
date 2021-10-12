@@ -1,7 +1,10 @@
-p {
+
+#main p {
   color: purple;
 }
 
+
 p {
   color: red;
-}
+} 
+
