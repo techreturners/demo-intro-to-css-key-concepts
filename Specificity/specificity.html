@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,6 +8,7 @@
     <link rel="stylesheet" href="./styles.css">
     <title>Cascading: CSS, Key Concepts</title>
 </head>
+
 <body>
     <h1>CSS Key Concepts: Specificity</h1>
 
@@ -14,16 +16,16 @@
 
     <h2>Conflicts and the Cascade: A Game of Top Trumps</h2>
 
-    <div id="winner">
-        <p>#ids = <strong>100</strong> points</p>
+    <div id="main">
+        <p>#ids = <span>100</span> points</p>
+        <p class="second-p">.classes = 10 points</p>
+        <p>&lt;elements&gt; = 1 point</p>
     </div>
 
-    <p>.classes = 10 points</p>
-    <p>&lt;types&gt; = 1 point</p>
-
+    <p>style attribute = 1000 points</p>
     <p>!important = TOP TRUMP (use with caution)</p>
     <p>The selector with the most points wins!</p>
 
-    <a href="https://stuffandnonsense.co.uk/archives/css_specificity_wars.html">Star Wars infographic</a>
 </body>
+
 </html>

@@ -1,9 +1,0 @@
-div {
-    border: 5px solid purple;
-    height: 200px;
-    width: 200px;
-    margin: 20px;
-    padding: 20px;
-
-    /* 200 + 20 + 20 + 20 + 20 + 5 + 5 */
-}
