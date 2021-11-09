@@ -1,4 +1,4 @@
-# intro_to_css_key_concepts
+# Demo - Introduction to CSS Key Concepts
 Demo for Intro to CSS, key concepts: cascading, specificity and inheritance
 
 
