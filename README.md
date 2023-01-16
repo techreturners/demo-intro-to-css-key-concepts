@@ -1,9 +1,13 @@
 # Demo - Introduction to CSS Key Concepts
-Demo for Intro to CSS, key concepts: cascading, specificity and inheritance
 
+Tech Coach demo for Introduction to CSS: Key Concepts. This repo demonstrates the box model, the cascade, specificity and inheritance
 
 # To get started
 
-Fork this repo
+This repo is just some static html pages and css.
 
-Then clone it locally and have a play!
+Clone it locally and have a play.
+
+# To open an html file in the browser, in your terminal do:
+
+      open box_model.html
